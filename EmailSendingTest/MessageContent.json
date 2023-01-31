@@ -1,0 +1,26 @@
+{
+  
+    "sandboxMode": false,
+    "messages": [
+      {
+        "sender": {
+          "email": "rtlesf_mobility@sertest.shell.com",
+          "name": "Emerald Admin"
+        },
+        "from": {
+          "email": "rtlesf_mobility@sertest.shell.com",
+          "name": "Emerald Admin"
+        },
+        "to": [
+          {
+            "email": "paul.ponnudurai@cgi.com",
+            "name": "Paul"
+          }
+        ],
+        "subject": "Test",
+        "text": "Hello.Welcome"
+      }
+    ]
+  }
+
+
